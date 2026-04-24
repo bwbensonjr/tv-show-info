@@ -1,0 +1,5 @@
+langchain
+langchain-aws
+langchain-openai
+langchain-google-community
+python-dotenv
